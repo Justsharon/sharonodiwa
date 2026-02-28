@@ -47,6 +47,5 @@ title: Home
 {% endfor %}
 
 <p style="text-align:center; margin-top: 2rem;">
-  <a href="/projects/" class="btn">See All Projects →</a>
+  <a href="{{ "/projects/" | relative_url }}" class="btn">See All Projects →</a>
 </p>
-
