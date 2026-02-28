@@ -13,8 +13,7 @@ status: complete
 <img 
   src="{{ '/assets/images/payment_transactions_page-0001.jpg' | relative_url }}"
   alt="Payment Transactions Analytics Dashboard"
-  class="dashboard-preview"
->
+  class="dashboard-preview" />
 
 ## Business Problem
 
