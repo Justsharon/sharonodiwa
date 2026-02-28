@@ -11,7 +11,7 @@ status: complete
 ---
 
 <img 
-  src="assets/images/payment-dashboard-preview.png"
+  src="/sharonodiwa/assets/images/payment_transactions_page-0001.jpg"
   alt="Payment Transactions Analytics Dashboard"
   class="dashboard-preview"
 >
