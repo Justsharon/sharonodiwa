@@ -1,0 +1,411 @@
+---
+---
+
+/* =====================
+   BASE
+   ===================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  background: #f9fafb;
+  color: #1f2937;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* =====================
+   LAYOUT
+   ===================== */
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+}
+
+/* =====================
+   HEADER
+   ===================== */
+
+.site-header {
+  background: white;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #111827;
+  text-decoration: none;
+}
+
+.site-nav a {
+  margin-left: 2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #374151;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.site-nav a:hover,
+.site-nav a.active {
+  color: #2563eb;
+}
+
+/* =====================
+   FOOTER
+   ===================== */
+
+.site-footer {
+  border-top: 1px solid #e5e7eb;
+  background: white;
+  margin-top: 4rem;
+}
+
+.footer-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.footer-links a {
+  margin-left: 1.5rem;
+  color: #6b7280;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #2563eb;
+}
+
+/* =====================
+   HERO
+   ===================== */
+
+.hero {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid #e5e7eb;
+  margin-bottom: 3rem;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  margin: 0 0 0.75rem;
+}
+
+.highlight {
+  color: #2563eb;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #4b5563;
+  max-width: 600px;
+  margin: 0 0 1.5rem;
+}
+
+/* =====================
+   BUTTONS
+   ===================== */
+
+.btn {
+  display: inline-block;
+  background: #2563eb;
+  color: white;
+  padding: 0.6rem 1.4rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  margin-right: 0.75rem;
+  transition: background 0.15s;
+}
+
+.btn:hover {
+  background: #1d4ed8;
+  text-decoration: none;
+}
+
+.btn-outline {
+  background: transparent;
+  color: #2563eb;
+  border: 1.5px solid #2563eb;
+}
+
+.btn-outline:hover {
+  background: #eff6ff;
+}
+
+/* =====================
+   SKILLS GRID
+   ===================== */
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.skill-block {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.skill-block h4 {
+  margin: 0 0 0.4rem;
+  font-size: 0.9rem;
+  color: #111827;
+}
+
+.skill-block p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+/* =====================
+   PROJECT CARDS
+   ===================== */
+
+.project-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.card-header h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.card-header h3 a {
+  color: #111827;
+  text-decoration: none;
+}
+
+.card-header h3 a:hover {
+  color: #2563eb;
+}
+
+.card-summary {
+  color: #4b5563;
+  font-size: 0.9rem;
+  margin: 0.4rem 0 0.8rem;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.82rem;
+}
+
+.tech-stack {
+  color: #6b7280;
+  font-family: 'SFMono-Regular', Consolas, monospace;
+}
+
+.card-link {
+  color: #2563eb;
+  font-weight: 500;
+}
+
+/* =====================
+   BADGE
+   ===================== */
+
+.badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-complete {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.badge-in-progress {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+/* =====================
+   PROJECT PAGE
+   ===================== */
+
+.back-link {
+  font-size: 0.85rem;
+  color: #6b7280;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.project-header {
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.project-header h1 {
+  margin: 0.25rem 0 1rem;
+}
+
+.project-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+
+.project-content {
+  max-width: 720px;
+}
+
+.project-content h2 {
+  margin-top: 2.5rem;
+  font-size: 1.25rem;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.4rem;
+}
+
+.project-content h3 {
+  margin-top: 1.75rem;
+  font-size: 1.05rem;
+  color: #374151;
+}
+
+/* =====================
+   CODE BLOCKS
+   ===================== */
+
+pre {
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 1.25rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+}
+
+p code, li code {
+  background: #f1f5f9;
+  color: #be185d;
+  padding: 0.1em 0.4em;
+  border-radius: 4px;
+  font-size: 0.87em;
+}
+
+/* =====================
+   CONTACT
+   ===================== */
+
+.contact-links {
+  margin: 2rem 0;
+}
+
+/* =====================
+   TABLES
+   ===================== */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin: 1.5rem 0;
+}
+
+th {
+  background: #f3f4f6;
+  text-align: left;
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+@media (max-width: 640px) {
+  .header-inner {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
+  
+  .site-nav a {
+    margin: 0 0.75rem;
+  }
+
+  .hero h2 {
+    font-size: 1.5rem;
+  }
+
+  .footer-inner {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
+}

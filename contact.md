@@ -1,1 +1,23 @@
+---
+layout: default
+title: Contact
+---
 
+# Let's Connect
+
+I'm currently open to data analyst roles where there's real analytical 
+work to be done — messy datasets, meaningful business questions, and 
+room to build things properly.
+
+If you're working on something interesting or think I'd be a good fit 
+for your team, I'd like to hear about it.
+
+<div class="contact-links">
+  <a href="mailto:yourname@email.com" class="btn">Email Me</a>
+  <a href="https://linkedin.com/in/yourprofile" class="btn btn-outline" target="_blank">LinkedIn</a>
+  <a href="https://github.com/yourusername" class="btn btn-outline" target="_blank">GitHub</a>
+</div>
+
+---
+
+**Response time:** I typically get back within 24–48 hours.

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<article class="project-page">
+
+  <div class="project-header">
+    <a href="/projects/" class="back-link">← All Projects</a>
+    <h1>{{ page.title }}</h1>
+
+    <div class="project-meta">
+      {% if page.tech %}
+        <span class="meta-item"><strong>Tools:</strong> {{ page.tech }}</span>
+      {% endif %}
+      {% if page.timeline %}
+        <span class="meta-item"><strong>Timeline:</strong> {{ page.timeline }}</span>
+      {% endif %}
+      {% if page.dataset_size %}
+        <span class="meta-item"><strong>Dataset:</strong> {{ page.dataset_size }}</span>
+      {% endif %}
+    </div>
+
+    <div class="project-links">
+      {% if page.github %}
+        <a href="{{ page.github }}" class="btn" target="_blank">View on GitHub</a>
+      {% endif %}
+      {% if page.demo %}
+        <a href="{{ page.demo }}" class="btn btn-outline" target="_blank">Live Demo</a>
+      {% endif %}
+      {% if page.tableau %}
+        <a href="{{ page.tableau }}" class="btn btn-outline" target="_blank">View Dashboard</a>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+
+</article>
