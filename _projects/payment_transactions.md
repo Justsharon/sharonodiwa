@@ -1,7 +1,3 @@
-
-Project 1 · MD
-Copy
-
 ---
 layout: project
 title: Payment Transactions Analytics

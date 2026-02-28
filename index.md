@@ -10,8 +10,11 @@ title: Home
     I bring technical depth to analysis work — clean pipelines, 
     reproducible code, and dashboards that actually get used.
   </p>
-  <a href="/projects/" class="btn">View My Work</a>
-  <a href="/contact/" class="btn btn-outline">Get In Touch</a>
+  <div class="hero-actions">
+  <a href="{{ "/projects/" | relative_url }}"
+         {% if page.url contains "/projects" %}class="active"{% endif %}>Projects</a>
+  <a href="{{ "/contact/" | relative_url }}" class="btn btn-outline">Get In Touch</a>
+</div>
 </section>
 
 ---
