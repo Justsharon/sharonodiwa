@@ -10,13 +10,11 @@ github: https://github.com/Justsharon/payment_transactions_analytics
 status: complete
 ---
 
-(blank line)
 <img 
-  src="/sharonodiwa/assets/images/payment_transactions_page-0001.jpg"
+  src="{{ '/assets/images/payment_transactions_page-0001.jpg' | relative_url }}"
   alt="Payment Transactions Analytics Dashboard"
   class="dashboard-preview"
 >
-(blank line)
 
 ## Business Problem
 
