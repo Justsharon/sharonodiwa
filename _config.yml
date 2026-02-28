@@ -19,11 +19,6 @@ permalink: /:title/
 
 markdown: kramdown
 
-kramdown:
-  input: GFM
-  hard_wrap: false
-  parse_block_html: true
-
 plugins:
   - jekyll-relative-links
 
