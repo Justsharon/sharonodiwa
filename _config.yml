@@ -1,5 +1,5 @@
-title: Your Name
-description: Data Analyst | SQL · Python · Excel . Power
+title: Sharon Odiwa
+description: Data Analyst — Python · SQL · MySQL · Power BI
 url: "https://justsharon.github.io"
 baseurl: "/sharonodiwa"
 
@@ -15,10 +15,16 @@ defaults:
     values:
       layout: project
 
+permalink: /:title/
+
 markdown: kramdown
-permalink: pretty
+
+plugins:
+  - jekyll-relative-links
 
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor

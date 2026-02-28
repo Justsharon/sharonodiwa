@@ -5,7 +5,7 @@ layout: default
 <article class="project-page">
 
   <div class="project-header">
-    <a href="/projects/" class="back-link">← All Projects</a>
+    <a href="{{ "/projects/" | relative_url }}" class="back-link">← All Projects</a>
     <h1>{{ page.title }}</h1>
 
     <div class="project-meta">
@@ -26,9 +26,6 @@ layout: default
       {% endif %}
       {% if page.demo %}
         <a href="{{ page.demo }}" class="btn btn-outline" target="_blank">Live Demo</a>
-      {% endif %}
-      {% if page.tableau %}
-        <a href="{{ page.tableau }}" class="btn btn-outline" target="_blank">View Dashboard</a>
       {% endif %}
     </div>
   </div>
