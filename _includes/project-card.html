@@ -1,4 +1,9 @@
 <div class="project-card">
+  {% if project.image %}
+    <div class="card-image">
+      <img src="{{ project.image | relative_url }}" alt="{{ project.title }} preview">
+    </div>
+  {% endif %}
   <div class="card-header">
     <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
     {% if project.status %}

@@ -2,6 +2,7 @@
 layout: project
 title: Payment Transactions Analytics
 summary: Built an end-to-end payment pipeline processing 49,943 transactions — identified a systemic 58% failure rate and 83% timestamp coverage gap across 2023–2024, surfaced through Python, MySQL, and Power BI.
+image: assets/images/payment_transactions_page-0001.jpg
 tech: Python · SQL · MySQL · Power BI · Pandas · SQLAlchemy
 timeline: 6 weeks
 dataset_size: 49,943 transactions · 2023–2024
@@ -9,6 +10,7 @@ github: https://github.com/Justsharon/payment_transactions_analytics
 status: complete
 ---
 
+![Payment Transactions Dashboard]({{ "assets/images/payment_transactions_page-0001.jpg" | relative_url }})
 ## Business Problem
 
 A payment processing dataset spanning two years and 13 payment methods had never been systematically analysed. Raw data contained inconsistent country codes, mixed-case currencies, 16 variants of the same status values, and no documented data quality tracking.
