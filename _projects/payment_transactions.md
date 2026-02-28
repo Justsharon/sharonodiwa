@@ -10,7 +10,11 @@ github: https://github.com/Justsharon/payment_transactions_analytics
 status: complete
 ---
 
-![Payment Transactions Dashboard]({{ "assets/images/payment_transactions_page-0001.jpg" | relative_url }})
+<img 
+  src="{{ "assets/images/payment_transactions_page-0001.jpg" | relative_url }}"
+  alt="Payment Transactions Analytics — Power BI Executive Dashboard"
+  class="dashboard-preview"
+>
 ## Business Problem
 
 A payment processing dataset spanning two years and 13 payment methods had never been systematically analysed. Raw data contained inconsistent country codes, mixed-case currencies, 16 variants of the same status values, and no documented data quality tracking.

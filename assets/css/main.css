@@ -425,10 +425,13 @@ td {
   display: block;
 }
 
-.project-content img {
+.dashboard-preview {
   width: 100%;
+  max-width: 860px;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto 2.5rem;
   border-radius: 10px;
   border: 1px solid #e5e7eb;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.10);
-  margin: 1.5rem 0 2.5rem;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
 }
