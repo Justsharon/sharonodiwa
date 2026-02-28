@@ -11,8 +11,8 @@ title: Home
     reproducible code, and dashboards that actually get used.
   </p>
   <div class="hero-actions">
-  <a href="{{ "/projects/" | relative_url }}"
-         {% if page.url contains "/projects" %}class="active"{% endif %}>Projects</a>
+  <!-- <a href="{{ "/projects/" | relative_url }}"
+         {% if page.url contains "/projects" %}class="active"{% endif %}>Projects</a> -->
   <a href="{{ "/contact/" | relative_url }}" class="btn btn-outline">Get In Touch</a>
 </div>
 </section>
