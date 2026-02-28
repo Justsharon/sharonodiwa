@@ -13,9 +13,9 @@ If you're working on something interesting or think I'd be a good fit
 for your team, I'd like to hear about it.
 
 <div class="contact-links">
-  <a href="mailto:yourname@email.com" class="btn">Email Me</a>
-  <a href="https://linkedin.com/in/yourprofile" class="btn btn-outline" target="_blank">LinkedIn</a>
-  <a href="https://github.com/yourusername" class="btn btn-outline" target="_blank">GitHub</a>
+  <a href="odiwasharon@gmail.com" class="btn">Email Me</a>
+  <a href="https://www.linkedin.com/in/sharonodiwa/" class="btn btn-outline" target="_blank">LinkedIn</a>
+  <a href="https://github.com/Justsharon/sharonodiwa" class="btn btn-outline" target="_blank">GitHub</a>
 </div>
 
 ---

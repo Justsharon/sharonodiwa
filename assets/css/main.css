@@ -104,12 +104,12 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   font-size: 0.82rem;
-  color: #9ca3af;
+  color: #ffffff;
 }
 
 .footer-links a {
   margin-left: 1.5rem;
-  color: #9ca3af;
+  color: #ffffff;
   text-decoration: none;
   transition: color 0.15s;
 }
