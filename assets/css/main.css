@@ -424,3 +424,11 @@ td {
   object-position: top;
   display: block;
 }
+
+.project-content img {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.10);
+  margin: 1.5rem 0 2.5rem;
+}
