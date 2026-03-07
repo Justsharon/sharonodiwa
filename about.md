@@ -28,7 +28,7 @@ Right now I spend most of my time building data projects — exploring datasets,
   Business Analytics
 - GPA: 3.8
 
-**Women Techster Fellowship** — Data Science & Engineering
+**Women Techster Fellowship(Tech4Dev)** — Data Science & Engineering, Aug 2025 - Aug 2026
 
 - Relevant coursework: Statistics, Database Systems, Data Visualization, Programming, Artificial Intelligence, Machine Learning, Business Analytics
 
@@ -41,6 +41,7 @@ Right now I spend most of my time building data projects — exploring datasets,
 | Data Analyst in Python | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/d4ecdf9ba6de6445f4a335caec8498f8e6021b84) |
 | Associate Data Engineer in SQL | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/b796398d941a43c5f9de452309cc82ada65d8092) |
 | Data Literacy | DataCamp | [View Certificate](https://www.datacamp.com/skill-verification/DL0032198910314) |
+| Financial Modeling & Valuation Analyst (FMVA) | Corporate Finance Institute | [View Certificate](http://credentials.corporatefinanceinstitute.com/6572c58f-3f20-4fa0-83bf-b19bb7dc40b2#acc.pEkmBFY0) |
 
 ## Technical Skills
 
