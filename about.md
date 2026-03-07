@@ -32,18 +32,15 @@ Right now I spend most of my time building data projects — exploring datasets,
 
 - Relevant coursework: Statistics, Database Systems, Data Visualization, Programming, Artificial Intelligence, Machine Learning, Business Analytics
 
+
 ## Certifications & Courses
-**Associate Data Analyst in SQL**  
-- https://www.datacamp.com/completed/statement-of-accomplishment/track/f8ea9039d0e5c6881f20f6b2074178fa7e749e3b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
 
-**Data Analyst in Python**
-- https://www.datacamp.com/completed/statement-of-accomplishment/track/d4ecdf9ba6de6445f4a335caec8498f8e6021b84?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
-
-**Associate Data Engineer in SQL**
-- https://www.datacamp.com/completed/statement-of-accomplishment/track/b796398d941a43c5f9de452309cc82ada65d8092?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
-
-**Data LIteracy**
-- https://www.datacamp.com/skill-verification/DL0032198910314
+| Certification | Issuer | Verify |
+|---|---|---|
+| Associate Data Analyst in SQL | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/f8ea9039d0e5c6881f20f6b2074178fa7e749e3b) |
+| Data Analyst in Python | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/d4ecdf9ba6de6445f4a335caec8498f8e6021b84) |
+| Associate Data Engineer in SQL | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/b796398d941a43c5f9de452309cc82ada65d8092) |
+| Data Literacy | DataCamp | [View Certificate](https://www.datacamp.com/skill-verification/DL0032198910314) |
 
 ## Technical Skills
 
