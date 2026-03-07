@@ -1,14 +1,14 @@
 # About Me
 
-I spent three years as a frontend engineer building data-heavy
-interfaces — dashboards, reporting tools, real-time feeds.
-That work made me realize the analysis upstream of the UI was
-where the real decisions got made, which is what drew me toward
-data analysis full-time.
+I’m a data analyst with a background in software engineering and a foundation in statistics and economics. I spent three years as a frontend engineer building data-driven interfaces — dashboards, reporting tools, and real-time data feeds powered by APIs and databases.
 
-I'm comfortable writing production-quality code, working with
-APIs and databases directly, and communicating findings to
-non-technical stakeholders — skills most analysts are still building.
+Working on those systems exposed me to an important pattern: the interface shows the result, but the real leverage sits upstream in the data. That realization is what pushed me to move deeper into analytics.
+
+Today my focus is on turning raw data into clear, actionable insight that helps organizations make better decisions. My goal is simple: improve the quality of decisions businesses make by grounding them in data.
+
+My engineering background gives me an advantage in analytics work. I’m comfortable writing production-quality code, working directly with APIs and databases, and building reproducible analysis pipelines rather than relying only on manual tools.
+
+Right now I spend most of my time building data projects — exploring datasets, designing analysis workflows, and writing code that moves data from raw sources into structured insights. Long-term, I’m particularly interested in analytics engineering and data science, where software engineering practices meet analytical thinking.
 
 ## Experience
 
@@ -18,6 +18,7 @@ non-technical stakeholders — skills most analysts are still building.
 - Wrote complex SQL queries to extract, join, and aggregate data from production databases for ad-hoc analysis and reporting.
 - Built data-driven dashboards and internal tools to monitor feature adoption and system performance, improving visibility for product and engineering teams.
 - Improved data reliability by validating API responses and identifying inconsistencies in upstream data sources, reducing reporting errors.
+- Collaborated with cross-functional teams to structure, validate, and test data flows between frontend interfaces and backend systems, reducing data inconsistencies by 30%.
 
 ## Education
 
@@ -26,6 +27,23 @@ non-technical stakeholders — skills most analysts are still building.
 - Relevant coursework: Statistics, Database Systems, Data Visualization,
   Business Analytics
 - GPA: 3.8
+
+**Women Techster Fellowship** — Data Science & Engineering
+
+- Relevant coursework: Statistics, Database Systems, Data Visualization, Programming, Artificial Intelligence, Machine Learning, Business Analytics
+
+## Certifications & Courses
+**Associate Data Analyst in SQL**  
+- https://www.datacamp.com/completed/statement-of-accomplishment/track/f8ea9039d0e5c6881f20f6b2074178fa7e749e3b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
+
+**Data Analyst in Python**
+- https://www.datacamp.com/completed/statement-of-accomplishment/track/d4ecdf9ba6de6445f4a335caec8498f8e6021b84?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
+
+**Associate Data Engineer in SQL**
+- https://www.datacamp.com/completed/statement-of-accomplishment/track/b796398d941a43c5f9de452309cc82ada65d8092?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
+
+**Data LIteracy**
+- https://www.datacamp.com/skill-verification/DL0032198910314
 
 ## Technical Skills
 
@@ -39,7 +57,5 @@ non-technical stakeholders — skills most analysts are still building.
 
 ## Outside of Work
 
-When I'm not digging into a dataset, I'm probably with my cats or dog I also sing, which turns out to share more with
-data work than you'd expect: both require finding the signal underneath
-the noise.
+When I'm not digging into a dataset, I'm probably with my cats, I also sing, read books, and enjoy taking walks.
 <a href="{{ "/contact/" | relative_url }}" class="btn btn-outline">Let's Connect</a>
