@@ -7,9 +7,8 @@ title: Home
  <div class="hero-text">
   <h2>Hi, I'm <span class="highlight">Sharon Odiwa</span></h2>
   <p class="tagline">
-    Data Analyst with 3 years of engineering experience. 
-    I bring technical depth to analysis work — clean pipelines, 
-    reproducible code, and dashboards that actually get used.
+    Data Analyst with 3 years of software engineering experience.
+    I turn complex data into clean pipelines, reproducible analysis, and dashboards that inform real business decisions. Experienced with APIs, databases, and production-quality code, I bridge the gap between engineering and analytics.
   </p>
   <div class="hero-actions">
   <a href="{{ "/contact/" | relative_url }}" class="btn btn-outline">Get In Touch</a>
