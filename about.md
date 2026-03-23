@@ -14,11 +14,11 @@ Right now I spend most of my time building data projects — exploring datasets,
 
 **Frontend Engineer** — Tawi Health, 2024 – Present
 
-- Analyzed user behavior and application usage data to inform UI improvements, contributing to a 22% increase in task completion rates.
-- Wrote complex SQL queries to extract, join, and aggregate data from production databases for ad-hoc analysis and reporting.
-- Built data-driven dashboards and internal tools to monitor feature adoption and system performance, improving visibility for product and engineering teams.
-- Improved data reliability by validating API responses and identifying inconsistencies in upstream data sources, reducing reporting errors.
-- Collaborated with cross-functional teams to structure, validate, and test data flows between frontend interfaces and backend systems, reducing data inconsistencies by 30%.
+- Wrote SQL queries against production databases to surface key user information, developing fluency in data retrieval, schema navigation, and query optimisation
+
+- Translated raw database records into meaningful user-facing displays, developing a strong intuition for what data insights matter to non-technical stakeholders
+
+- Developed strong foundations in relational data structures and query performance through daily interaction with production databases.
 
 ## Education
 
