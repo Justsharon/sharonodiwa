@@ -42,6 +42,8 @@ Right now I spend most of my time building data projects — exploring datasets,
 | Associate Data Engineer in SQL | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/b796398d941a43c5f9de452309cc82ada65d8092) |
 | Data Literacy | DataCamp | [View Certificate](https://www.datacamp.com/skill-verification/DL0032198910314) |
 | Financial Modeling & Valuation Analyst (FMVA) | Corporate Finance Institute | [View Certificate](http://credentials.corporatefinanceinstitute.com/6572c58f-3f20-4fa0-83bf-b19bb7dc40b2#acc.pEkmBFY0) |
+| BCG - Data Science Job Simulation | Forage | [View Certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69b7c8fca3fc2c1dbadcffae_1774761397559_completion_certificate.pdf) |
+
 
 ## Technical Skills
 
