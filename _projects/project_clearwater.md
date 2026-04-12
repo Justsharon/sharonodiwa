@@ -6,7 +6,7 @@ image: assets/images/operation_clearwater_page-0001.jpg
 tech: Python · SQL · MySQL · Power BI · Pandas · SQLAlchemy
 timeline: 3 days
 dataset_size: January–September 2024 across 6 tables in a star schema data warehouse
-github: https://github.com/Justsharon/Operation_Clear_Waters
+github: 
 status: complete
 ---
 

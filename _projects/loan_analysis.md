@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fintech Personal Loan Portfolio — EDA Project Summary
-summary: Run a structured exploratory data analysis in Python to answer five strategic questions the CEO needs resolved before making underwriting, pricing, and marketing decisions for the next quarter. Surface the findings in a Power BI executive dashboard.
+summary: A fintech CEO needed answers to five strategic questions before setting underwriting limits, pricing tiers, and Q2 marketing spend. I analyzed 250,000 loan records across credit quality, loan purpose, borrower demographics, and repayment behavior using Python and Power BI.
 image: assets/images/loan data analysis_page-0001.jpg
 tech: Python (Pandas, NumPy, Matplotlib, Seaborn) · Power BI
 timeline: 1 week
